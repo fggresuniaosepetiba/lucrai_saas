@@ -43,7 +43,6 @@ export function Hero() {
               href="#demonstracao"
               className="inline-flex h-12 items-center gap-2 rounded-md border border-[#e2e8f0] bg-[#ffffff] px-6 text-base font-medium text-on-surface transition-colors hover:bg-[#f8f9ff]"
             >
-              <Play className="h-4 w-4" />
               Ver Demonstração
             </a>
           </div>
